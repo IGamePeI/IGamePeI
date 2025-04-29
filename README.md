@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>Привет, я GamePe! 👋</h1>
-  <p>Java и Python разработчик</p>
+  <h1>Hi, I'm GamePe! 👋</h1>
+  <p>Java and Python Developer</p>
 </div>
 
 ---
@@ -13,28 +13,28 @@
 
 ---
 
-## Обо мне
+## About Me
 
-Я увлеченный разработчик с опытом работы на Java и Python. Мне нравится создавать эффективные и элегантные решения. Я всегда открыт к новым технологиям и стремлюсь постоянно совершенствовать свои навыки.
+I'm a passionate developer with experience in Java and Python. I enjoy creating efficient and elegant solutions. I'm always open to new technologies and strive to continuously improve my skills.
 
-## Навыки
+## Skills
 
-- **Языки программирования:** Java, Python
-- **Базы данных:** PostgreSQL, SQLite
-- **Фреймворки:** Spring
-- **Инструменты:** Git, Docker
+- **Programming Languages:** Java, Python
+- **Databases:** PostgreSQL, SQLite
+- **Frameworks:** Spring
+- **Tools:** Git, Docker
 
 
-## Связь
+## Connect with me
 
 <div align="center">
   <a href="your_linkedin_profile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://www.youtube.com/@IGamePeI">
+  <a href="https://www.youtube.com/@IGamePeI">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://t.me/GemePe">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge
-    "/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+</div>
