@@ -20,7 +20,7 @@ I'm a passionate developer with experience in Java and Python. I enjoy creating 
 
 - **Programming Languages:** Java, Python
 - **Databases:** PostgreSQL, SQLite
-- **Frameworks:** Spring, Hibernate
+- **Frameworks:** Spring, Hibernate, SQLAlchemy
 - **Tools:** Git, Docker
 
 
