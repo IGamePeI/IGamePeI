@@ -43,14 +43,6 @@
 
 <br>
 
-## 🚀 Current Projects
-*Here are some projects I'm currently working on:*
-
-- [Project Name 1](Link to Project 1) - Short description of the project.
-- [Project Name 2](Link to Project 2) - Short description of the project.
-
-<br>
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -64,9 +56,3 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-
-<br>
-
----
-
-⭐️ From [GamePe](https://github.com/IGamePeI)
