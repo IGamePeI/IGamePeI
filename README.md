@@ -3,28 +3,55 @@
   <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=5000&color=FFFFFF&center=true&vCenter=true&width=500&height=100&lines=Hi%2C+I'm+GamePe!" alt="Typing SVG" /></a>
 </div>
 
+<br>
+
 ---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IGamePeI&show_icons=true&theme=radical" alt="GamePe's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGamePeI&layout=compact&theme=radical" alt="GamePe's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGamePeI&layout=compact&theme=radical&langs_count=8" alt="GamePe's Top Languages"/>
 </div>
+
+<br>
 
 ---
 
-## About Me
+## ✨ About Me
 
-I'm a passionate developer with experience in Java and Python. I enjoy creating efficient and elegant solutions. I'm always open to new technologies and strive to continuously improve my skills.
+👋 Hi, I'm a passionate developer with a focus on crafting efficient and elegant solutions. I'm constantly learning and exploring new technologies to expand my skillset and contribute to exciting projects.
 
-## Skills
+<br>
 
-- **Programming Languages:** Java, Python
-- **Databases:** PostgreSQL, SQLite
-- **Frameworks:** Spring, Hibernate, SQLAlchemy
-- **Tools:** Git, Docker
+## 🛠️ Skills
 
+### Programming Languages:
+- Java
+- Python
 
-## Connect with me
+### Databases:
+- PostgreSQL
+- SQLite
+
+### Frameworks:
+- Spring
+- Hibernate
+- SQLAlchemy
+
+### Tools:
+- Git
+- Docker
+
+<br>
+
+## 🚀 Current Projects
+*Here are some projects I'm currently working on:*
+
+- [Project Name 1](Link to Project 1) - Short description of the project.
+- [Project Name 2](Link to Project 2) - Short description of the project.
+
+<br>
+
+## 🤝 Let's Connect!
 
 <div align="center">
   <a href="your_linkedin_profile">
@@ -37,3 +64,9 @@ I'm a passionate developer with experience in Java and Python. I enjoy creating 
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+
+<br>
+
+---
+
+⭐️ From [GamePe](https://github.com/IGamePeI)
