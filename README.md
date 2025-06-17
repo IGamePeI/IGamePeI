@@ -11,6 +11,8 @@
 
 ## ✨ About Me
 
+<br>
+
 👋 Hi, I'm a passionate developer with a focus on crafting efficient and elegant solutions. I'm constantly learning and exploring new technologies to expand my skillset and contribute to exciting projects.
 
 <br>
@@ -33,7 +35,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="36" height="36" />
   <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="36" height="36" />
-  <img src="https://skillicons.dev/icons?i=sqlalchemy" alt="SQLAlchemy" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" width="36" height="36" />
 </p>
 
 ### Tools:
