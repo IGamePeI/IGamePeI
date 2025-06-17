@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=5000&color=FFFFFF&center=true&vCenter=true&width=500&height=100&lines=Hi%2C+I'm+GamePe!" alt="Typing SVG" /></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=43&pause=4000&color=FFFFFF&center=true&vCenter=true&width=500&height=100&lines=Hi%2C+I'm+G么MEPE" alt="Typing SVG" /></a>
 </div>
 
 <br>
@@ -15,33 +15,38 @@
 
 <br>
 
-## 🛠️ Skills
+## Skills 🛠️
 
 ### Programming Languages:
-- Java
-- Python
+<p>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="36" height="36" />
+</p>
 
 ### Databases:
-- PostgreSQL
-- SQLite
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="36" height="36" />
+</p>
 
 ### Frameworks:
-- Spring
-- Hibernate
-- SQLAlchemy
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=sqlalchemy" alt="SQLAlchemy" width="36" height="36" />
+</p>
 
 ### Tools:
-- Git
-- Docker
+<p>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="36" height="36" />
+</p>
 
 <br>
 
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="your_linkedin_profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://www.youtube.com/@IGamePeI">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
