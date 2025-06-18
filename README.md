@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=43&pause=4000&color=FFFFFF&center=true&vCenter=true&width=500&height=100&lines=Hi%2C+I'm+G么MEPE" alt="Typing SVG" /></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=43&pause=4000&color=FFFFFF&center=true&vCenter=true&width=490&height=100&lines=Hi%2C+I'm+G么MEPE!" alt="Typing SVG" /></a>
 </div>
 
 <br>
