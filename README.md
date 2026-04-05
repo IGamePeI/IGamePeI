@@ -1,9 +1,7 @@
 ## Hi, I'm GamePe
 
-Software developer focused on building clean, efficient, and maintainable solutions.
-
 ### About me
-I'm software developer
+I'm software developer focused on building clean, efficient, and maintainable solutions.
 
 ### Skills
 - Languages: Python, Java, JavaScript
